@@ -5,18 +5,18 @@
  */
 package biocomputation;
 
-import static biocomputation.classification32.N;
+import static biocomputation.classification64.N;
 
 /**
  *
  * @author Callum
  */
-public class individual {
+public class individual64 {
     
     int [] genes;
     int fitness;
     
-    public individual () {
+    public individual64 () {
         
         genes = new  int [N];
                 

@@ -14,7 +14,7 @@ public class classification32 {
     //Global integers leave em alone
     static  int numberofNines = 0;
     static final int pop = 500;//number of individuals in a given population
-    static final int N = 70;//Number of Genes
+    static final int N = 60;//Number of Genes
     static final int mP = 10;//Mutation Probablity
     static final int generations = 1000; //Number of generations/iterations
     static final int row32L = 5;//Number of bits located in the input variable component of a data1 row
